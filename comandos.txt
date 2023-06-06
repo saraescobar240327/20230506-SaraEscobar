@@ -1,0 +1,11 @@
+git init: Crea un nuevo repositorio local en la carpeta actual.
+git remote add origin <URL_DEL_REPOSITORIO>: Vincula el repositorio local al repositorio remoto en GitHub.
+touch <nombre_archivo>: Crea un nuevo archivo vacío con el nombre especificado.
+git add .: Añade todos los cambios realizados en los archivos al área de preparación.
+git commit -m "<mensaje_del_commit>": Realiza un commit con un mensaje descriptivo.
+git push origin <nombre_rama>: Sube los cambios realizados en la rama especificada al repositorio remoto.
+git branch <nombre_rama>: Crea una nueva rama con el nombre especificado.
+git checkout <nombre_rama>: Cambia al branch especificado.
+mkdir <nombre_carpeta>: Crea una nueva carpeta con el nombre especificado.
+git mv <nombre_archivo_actual> <nuevo_nombre_archivo>: Cambia el nombre de un archivo o mueve un archivo a una nueva ubicación.
+git push origin <nombre_rama>: Sube los cambios realizados en la rama especificada al repositorio remoto.
